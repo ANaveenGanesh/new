@@ -49,12 +49,6 @@ reflected in Heroku app in real time hosted at https://nlp-pipe.herokuapp.com/.
 4. Run the flask app using `sudo python3 -m flask run --host=0.0.0.0 --port=80`.
 5. App can be opened on public ip provided in aws console.
 
-## Using gunicorn and nginx (needs to be configured properly for AWS machine)
-1. `pip install gunicorn`
-2. `sudo apt-get install nginx`
-3. To start nginx server `sudo /etc/init.d/nginx start`
-4. `sudo apt-get install gunicorn3`
-5. `gunicorn app:app -b localhost:8000 &`
 
 
 ##  Task List
