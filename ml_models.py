@@ -1,9 +1,7 @@
 """
-Author: Aditya Kumar
-Email: aditya00kumar@gmail.com
 Description: Contains all models defined in tox.ini files to be used in the flask application.
 Project: document-classification
-Date Created: 18-03-2019 01:46
+
 """
 
 from sklearn.ensemble import RandomForestClassifier
