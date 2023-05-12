@@ -1,9 +1,7 @@
 """
-Author: Aditya Kumar
-Email: aditya00kumar@gmail.com
 Description: All configuration parameters for Flask app
 Project: Document_Classification
-Last Modified: 1/9/18 6:44 PM
+
 """
 
 
